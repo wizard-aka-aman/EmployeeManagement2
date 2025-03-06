@@ -38,10 +38,31 @@ builder.Services.ConfigureApplicationCookie(options =>
 //builder.Services.AddMvc();
 builder.Services.AddControllersWithViews();
 
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.AccessDeniedPath = new PathString("/Admin/AccessDenied");
+});
+
 builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("DeleteRolePolicy",
-        policy => policy.RequireClaim("Delete Role"));
+        policy => policy.RequireClaim("Delete Role", "true"));
+
+    // this is used for the single use of policy for multiple uses of policy like AND or OR operator then we use Delegates  or requiredAssertions.
+    //options.AddPolicy("EditRolePolicy",
+    //policy => policy.RequireClaim("Edit Role", "true"));
+
+
+    options.AddPolicy("EditRolePolicy", policy => policy.RequireAssertion(context =>
+        context.User.IsInRole("Admin") &&
+        context.User.HasClaim(claim => claim.Type == "Edit Role" && claim.Value == "true") ||
+        context.User.IsInRole("Super Admin")
+    ));
+
+
+
+    options.AddPolicy("AdminRolePolicy",
+        policy => policy.RequireRole("Admin"));
 });
 
 //builder.Services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();

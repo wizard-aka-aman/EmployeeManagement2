@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\security\\caneditonlyotheradminrolesandclaimshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\security\\caneditonlyotheradminrolesandclaimshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\security\\manageadminrolesandclaimsrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\security\\manageadminrolesandclaimsrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\administration\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\administration\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\administration\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\models\\claimsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\claimsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\manageuserclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\userclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\administration\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4935B7B-1700-4D8E-9135-37209732969D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verma\\onedrive\\desktop\\com projects c#\\employeemanagement\\employeemanagement\\views\\administration\\manageuserroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,11 +94,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanEditOnlyOtherAdminRolesAndClaimsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Security\\CanEditOnlyOtherAdminRolesAndClaimsHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Security\\CanEditOnlyOtherAdminRolesAndClaimsHandler.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Security\\CanEditOnlyOtherAdminRolesAndClaimsHandler.cs",
+              "RelativeToolTip": "EmployeeManagement\\Security\\CanEditOnlyOtherAdminRolesAndClaimsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:53:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ManageAdminRolesAndClaimsRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Security\\ManageAdminRolesAndClaimsRequirement.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Security\\ManageAdminRolesAndClaimsRequirement.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Security\\ManageAdminRolesAndClaimsRequirement.cs",
+              "RelativeToolTip": "EmployeeManagement\\Security\\ManageAdminRolesAndClaimsRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:52:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Administration\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\AccessDenied.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Administration\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:58:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClaimsStore.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Models\\ClaimsStore.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\ClaimsStore.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Models\\ClaimsStore.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\ClaimsStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:03:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "EmployeeManagement\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:18:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "EmployeeManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:18:27.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "RelativeToolTip": "EmployeeManagement\\ViewModels\\EmployeeCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:18:24.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\ListRoles.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Administration\\ListRoles.cshtml",
+              "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\ListRoles.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Administration\\ListRoles.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T07:47:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
@@ -74,12 +210,11 @@
               "RelativeToolTip": "EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAADwvyUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T06:49:25.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:49:25.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "ManageUserClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\ManageUserClaims.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Administration\\ManageUserClaims.cshtml",
@@ -87,12 +222,11 @@
               "RelativeToolTip": "EmployeeManagement\\Views\\Administration\\ManageUserClaims.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T06:01:37.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:01:37.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "UserClaimsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\UserClaimsViewModel.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\UserClaimsViewModel.cs",
@@ -100,12 +234,11 @@
               "RelativeToolTip": "EmployeeManagement\\ViewModels\\UserClaimsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:44:21.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T05:44:21.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "UserClaim.cs",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\UserClaim.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\UserClaim.cs",
@@ -113,12 +246,11 @@
               "RelativeToolTip": "EmployeeManagement\\ViewModels\\UserClaim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:43:08.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T05:43:08.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
@@ -126,31 +258,30 @@
               "RelativeToolTip": "EmployeeManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T05:08:46.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T05:08:46.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
               "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Program.cs",
               "RelativeToolTip": "EmployeeManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T05:07:32.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "EditUser.cshtml",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\EditUser.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Administration\\EditUser.cshtml",
               "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\EditUser.cshtml",
               "RelativeToolTip": "EmployeeManagement\\Views\\Administration\\EditUser.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwE8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-05T13:33:11.703Z",
               "EditorCaption": ""
@@ -163,13 +294,14 @@
               "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\UserRoleViewModel.cs",
               "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\UserRoleViewModel.cs",
               "RelativeToolTip": "EmployeeManagement\\ViewModels\\UserRoleViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:22:12.833Z"
+              "WhenOpened": "2025-03-05T13:22:12.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EmployeeManagement\\Properties\\launchSettings.json",
@@ -177,12 +309,11 @@
               "RelativeToolTip": "EmployeeManagement\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T12:57:54.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:57:54.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ManageUserRoles.cshtml",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Administration\\ManageUserRoles.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Administration\\ManageUserRoles.cshtml",
@@ -194,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UserRolesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\ViewModels\\UserRolesViewModel.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\ViewModels\\UserRolesViewModel.cs",
@@ -202,11 +333,12 @@
               "RelativeToolTip": "EmployeeManagement\\ViewModels\\UserRolesViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:27:59.67Z"
+              "WhenOpened": "2025-03-05T12:27:59.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Shared\\Error.cshtml",
@@ -218,13 +350,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AdministrationController.cs",
               "DocumentMoniker": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Controllers\\AdministrationController.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\AdministrationController.cs",
               "ToolTip": "C:\\Users\\verma\\OneDrive\\Desktop\\Com Projects C#\\EmployeeManagement\\EmployeeManagement\\Controllers\\AdministrationController.cs",
               "RelativeToolTip": "EmployeeManagement\\Controllers\\AdministrationController.cs",
-              "ViewState": "AgIAACEBAAAAAAAAAAAhwDABAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAQwNEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T12:06:50.033Z",
               "EditorCaption": ""
